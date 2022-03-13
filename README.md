@@ -18,16 +18,17 @@
 
 <h2><b> How to run this project </b><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="25"/> </h2>
 
-### **1. Hardware**
+### **1. [Hardware](https://www.tinkercad.com/things/aFVSuTEihoq-editing-components/editel?lessonid=EFU6PEHIXGFUR1J&projectid=OIYJ88OJ3OPN3EA&collectionid=OIYJ88OJ3OPN3EA&sharecode=CSVlaYnyW3pQ-2ZTp7DOZAiLQHwpl2ewXsW_UKB95aE)**
 
 <p align="center">
-  <img src=./demo/schematic.png alt="animated" />
+  <img src=./demo/schematic.png width="500" 
+     height="280"  alt="animated" />
 </p>
 
 ### **2. Code**
 
 - Upload the arduino code
-  `./arduino/controllerapp.ino` to the UNO board ([info](https://www.dummies.com/article/technology/computers/hardware/arduino/how-to-upload-a-sketch-to-an-arduino-164738)).
+  `./arduino/fan_controller.ino` to the UNO board ([info](https://www.dummies.com/article/technology/computers/hardware/arduino/how-to-upload-a-sketch-to-an-arduino-164738)).
 
 - Run main.py from the command line.
 
@@ -36,11 +37,11 @@ $ python main.py
 ```
 
 <p align="center">
-  <img src=./demo/picture2.png alt="animated" />
+  <img src=./demo/picture2.gif alt="animated" />
 </p>
 
 ---
 
 <h2><b> Authors </b></h2>
 
-- [Ahmed Abdulrahman](https://github.com/Ahmed-0357)
+- Ahmed Abdulrahman (ahmedabdulrahman419@gmail.com)
